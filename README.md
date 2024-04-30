@@ -132,5 +132,41 @@ The Playlist Generator helps by creating personalized playlists that match your 
 <br>    
 </details>
 
+<details><summary>Happy Music Playlist</summary>
+<br>
+
+1. "Happy" - Pharrell Williams
+   - A quintessential feel-good track that's all about the joy of being alive.
+   
+2. "Uptown Funk" - Mark Ronson ft. Bruno Mars
+   - This energetic and catchy tune is sure to get your toes tapping.
+
+3. "Can't Stop the Feeling!" - Justin Timberlake
+   - Perfect for dancing, this song radiates positive vibes and excitement.
+
+4. "Walking on Sunshine" - Katrina and The Waves
+   - An '80s hit that never fails to brighten up any day with its infectious energy.
+
+5. "Best Day Of My Life" - American Authors
+   - This indie rock song is both uplifting and motivational, ideal for starting the day right.
+
+6. "Shake It Off" - Taylor Swift
+   - Taylor's anthem to shaking off negativity and having fun no matter what.
+
+7. "Valerie" - Mark Ronson ft. Amy Winehouse
+   - A lively and vibrant track that combines soul with a feel-good rhythm.
+
+8. "Good as Hell" - Lizzo
+   - All about self-empowerment and feeling great, this track is a booster of self-confidence and joy.
+
+9. "Don't Worry Be Happy" - Bobby McFerrin
+   - A laid-back vibe combined with a catchy melody that's all about letting go of worries.
+
+10. "I Gotta Feeling" - The Black Eyed Peas
+    - An anthem for feeling good and anticipating a great night ahead.
+
+<br>    
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
