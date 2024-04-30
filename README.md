@@ -5,7 +5,7 @@
 The Playlist Generator helps by creating personalized playlists that match your exact specifications. When you specify a genre and additional preferences, the tool generates a list of song recommendations complete with artist names and, optionally, brief comments explaining why each track fits your request. This customization makes it easier to discover music that resonates with your personal style or to find the perfect soundtrack for any moment. The playlists can include links to streaming platforms where the songs are available, allowing for immediate access to the music.
 
 #
-### Example Usage
+### Example Playlists
 
 <details><summary>House Music Playlist</summary>
 <br>
