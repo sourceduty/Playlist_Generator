@@ -168,5 +168,10 @@ The Playlist Generator helps by creating personalized playlists that match your 
 <br>    
 </details>
 
+#
+### Related Links
+
+[Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
