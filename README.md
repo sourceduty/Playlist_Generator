@@ -7,6 +7,42 @@ The Playlist Generator helps by creating personalized playlists that match your 
 #
 ### Example Playlists
 
+<details><summary>AC/DC Playlist</summary>
+<br>
+
+1. Thunderstruck - AC/DC
+   - One of their most electrifying songs, ideal for getting pumped up.
+
+2. Back in Black - AC/DC
+   - A hard rock anthem known for its catchy riff and resilient spirit.
+
+3. Highway to Hell - AC/DC
+   - The quintessential road trip song, full of rebellious energy.
+
+4. You Shook Me All Night Long - AC/DC
+   - A crowd favorite that combines rock with a touch of sensuality.
+
+5. Hells Bells - AC/DC
+   - Starts with the ominous tolling of bells, setting a darker, compelling tone.
+
+6. T.N.T. - AC/DC
+   - Captures the band's raw, explosive energy perfectly.
+
+7. Shoot to Thrill - AC/DC
+   - A high-octane track that’s perfect for revving up your excitement.
+
+8. Dirty Deeds Done Dirt Cheap - AC/DC
+   - Known for its catchy, sing-along chorus and gritty storytelling.
+
+9. For Those About to Rock (We Salute You) - AC/DC
+   - An anthem that pays homage to rock enthusiasts everywhere.
+
+10. Let There Be Rock - AC/DC
+    - Embodies the spirit of rock music’s power and persistence.
+
+<br>    
+</details>
+
 <details><summary>House Music Playlist</summary>
 <br>
 
