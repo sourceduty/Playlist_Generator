@@ -1,5 +1,9 @@
 ![Speaker Stage](https://github.com/sourceduty/Playlist_Generator/assets/123030236/bd9009f0-80f1-4c1c-8583-7b8673e8659c)
 
+> Generate suggested playlists for any genre of music.
+
+#
+
 [Playlist Generator](https://chat.openai.com/g/g-LWZsOgU8X-playlist-generator) is a specialized tool developed to suggest music playlists tailored to user preferences based on specified genres. Whether you're interested in mainstream genres like pop or rock, or niche ones like shoegaze or vaporwave, the Playlist Generator can accommodate your musical tastes. By providing additional details such as mood, favorite artists, or specific occasions (like a dinner party or a workout session), you can further refine the playlists to suit your needs.
 
 The Playlist Generator helps by creating personalized playlists that match your exact specifications. When you specify a genre and additional preferences, the tool generates a list of song recommendations complete with artist names and, optionally, brief comments explaining why each track fits your request. This customization makes it easier to discover music that resonates with your personal style or to find the perfect soundtrack for any moment. The playlists can include links to streaming platforms where the songs are available, allowing for immediate access to the music.
@@ -172,6 +176,10 @@ The Playlist Generator helps by creating personalized playlists that match your 
 ### Related Links
 
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Lyrics Collage](https://github.com/sourceduty/Lyrics_Collage)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
