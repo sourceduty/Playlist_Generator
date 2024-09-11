@@ -1,4 +1,4 @@
-![Speaker Stage](https://github.com/sourceduty/Playlist_Generator/assets/123030236/bd9009f0-80f1-4c1c-8583-7b8673e8659c)
+![Heavy Metal Love](https://github.com/user-attachments/assets/a7bc8810-dc77-4caf-98bc-dbfb6db64dc1)
 
 > Generate suggested playlists for any genre of music.
 
@@ -171,6 +171,10 @@ The Playlist Generator helps by creating personalized playlists that match your 
 
 <br>    
 </details>
+
+#
+
+![Speaker Stage](https://github.com/sourceduty/Playlist_Generator/assets/123030236/bd9009f0-80f1-4c1c-8583-7b8673e8659c)
 
 #
 ### Related Links
